@@ -1,8 +1,9 @@
-### Adaptive signal processing
+## Adaptive signal processing
 
-## Matched Filters
+### Matched Filters
+  Adaptive filters are filters designed to detect known signals from noise. 
 
-## LMS Algorithm
+### LMS Algorithm
 
-## Neural Networks
+### Neural Networks
 
